@@ -8,7 +8,7 @@ use spekulatius\phpscraper;
 use Illuminate\Support\Facades\Storage;
 use LaravelZero\Framework\Commands\Command;
 
-class WebScrapper extends Command
+class ImageScrapper extends Command
 {
     /**
      * The name and signature of the console command.
