@@ -5,7 +5,7 @@ This is an Image Scrapping PHP command line app built using [Laravel Zero](https
 
 ## Usage
 
-- Download build file __image-scrapper__ from releases
+- Download build file __image-scrapper__ from [releases](https://github.com/aliadhillon/image-scrapper/releases)
 - Run __`php image-scrapper scrap [images-url]`__ will show list of images.
 - Run __`php image-scrapper scrap [images-url] -D`__ will download all images into the scrapper dir in the current direcotory.
 
