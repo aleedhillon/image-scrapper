@@ -11,4 +11,4 @@ This is an Image Scrapping PHP command line app built using [Laravel Zero](https
 
 ### Example
 
-__`php image-scrapper scrap https://www.w3schools.com/css/css_image_gallery.asp -D`__ will download all images into __./scrapper/httpswwww3schoolscomcsscss-image-galleryasp[random-string]/__
+__`php image-scrapper scrap https://www.w3schools.com/css/css_image_gallery.asp -D`__ will download all images into __`./scrapper/httpswwww3schoolscomcsscss-image-galleryasp[random-string]/`__
