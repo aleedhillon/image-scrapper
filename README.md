@@ -1,4 +1,4 @@
-# Web Scrapper
+# Image Scrapper
 
 ## Details
 This is an Image Scrapping PHP command line app built using [Laravel Zero](https://github.com/laravel-zero/laravel-zero) and [spekulatius/phpscraper](https://github.com/spekulatius/phpscraper) Laravel package.
