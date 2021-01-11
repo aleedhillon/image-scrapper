@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'name' => 'Image Scrapper',
+    'name' => 'Image Scrapper by Ali Dhillon',
 
     /*
     |--------------------------------------------------------------------------
